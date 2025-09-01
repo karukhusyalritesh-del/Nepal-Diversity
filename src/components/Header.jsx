@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div
       className="min-h-screen mb-4 bg-cover bg-center flex items-center w-full overflow-hidden"
-      style={{ backgroundImage: "url('/nepal.jpg')" }}
+      style={{ backgroundImage: "url('/nepal.webp')" }}
       id="Header"
     >
       <Navbar />
