@@ -1,5 +1,5 @@
 {
-    "homepage": "https://karukhusyalritesh-del.github.io/Nepal-Diversity",
+    "homepage": "https://myusername.github.io/my-app",
     "name": "react",
     "private": true,
     "version": "0.0.0",
@@ -20,7 +20,7 @@
         "react-dom": "^19.1.1",
         "react-toastify": "^11.0.5"
     },
-    "devDependencies": {git 
+    "devDependencies": {
         "@eslint/js": "^9.33.0",
         "@types/react": "^19.1.10",
         "@types/react-dom": "^19.1.7",
