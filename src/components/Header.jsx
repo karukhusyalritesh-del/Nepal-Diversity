@@ -32,7 +32,7 @@ const Header = () => {
           </h2>
 
           <div className="space-x-6 mt-16">
-            <a href="#Contact" className="bg-[#799EFF] px-8 py-3 rounded">
+            <a href="#About" className="bg-[#799EFF] px-8 py-3 rounded">
               Explore
             </a>
           </div>
